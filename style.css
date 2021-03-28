@@ -1,1 +1,12 @@
-* {color : white; background : red;}
+* {
+    color : white;
+    background : red;
+}
+
+body {
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 300px;
+}
